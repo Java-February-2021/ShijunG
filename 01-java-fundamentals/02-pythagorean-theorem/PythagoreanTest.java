@@ -3,5 +3,7 @@ public class PythagoreanTest {
         Pythagorean test = new Pythagorean();
         double result = test.calculateHypotenuse(5,5);
         System.out.println(result);
+
+        
     }
 }
